@@ -1,5 +1,3 @@
-Rendu TP MLBIO
-
-Eithan NAKACHE
-
-SCIA 2025
+# Rendu TP MLBIO  
+**Auteur :** Eithan NAKACHE  
+**Promotion :** SCIA 2025  
